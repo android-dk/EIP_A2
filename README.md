@@ -98,4 +98,3 @@ Use of Global Average Pooling (GAP) : GAP layer ensures that spatial information
 
 Effect of Dropout : Employing Dropout at each Convolution layer ensure there is no overfitting since Dropout is a regulariser.
 
-Team Members : Dinesh Kesaboina, Abhiraj Gupta Vinnakota
